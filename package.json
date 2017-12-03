@@ -1,0 +1,9 @@
+{
+  "name": "node-texas-holdem",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
